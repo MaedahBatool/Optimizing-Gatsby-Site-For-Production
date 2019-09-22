@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `WordSesh September 2019`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `Kick off with your next, Gatsby website by optimizing it for sitemaps, handling markdown pages, embedding videos and rss feed.`,
     author: `@MaedahBatool`,
     siteUrl: `https://maedahbatool.com`,
     siteUrlNoSlash: `https://maedahbatool.com`,
