@@ -1,3 +1,4 @@
+// Step #4: Create a page template for the Markdown files
 import { graphql } from "gatsby"
 import React from "react"
 
