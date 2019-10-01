@@ -1,6 +1,8 @@
-# Optimizing Your Gatsby.js Website for Production
-
-![gatsby-site-production](https://on.ahmda.ws/275123/c)
+<h1 align="center">
+  <img src="https://on.ahmda.ws/275123/c" alt="gatsby-site-production" />
+  
+<br>Optimizing Your Gatsby.js Website for Production
+</h1>
 
 <br>
 
@@ -78,6 +80,7 @@ Inside your terminal type the following to install this plugin.
 ```sh
 npm install -- save gatsby-file-sourcesystem
 ```
+
 But to make this plugin work you need a pre-requisite plugin i.e., `gatsby-transformer-remark` which is installed via the following:
 
 ```sh
@@ -115,6 +118,7 @@ Install it via the following command:
 ```sh
 npm install -- save gatsby-plugin-feed
 ```
+
 It needs the following two plugins as a pre-reqs:
 
 - `gatsby-transformer-remark`
